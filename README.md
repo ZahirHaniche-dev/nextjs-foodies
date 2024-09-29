@@ -1,4 +1,4 @@
-# Foodies NewtJS Application - Essentials (App Router)
+# Foodies NextJS Application - Essentials (App Router)
 
 
 ## Welcome! 👋
