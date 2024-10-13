@@ -3,10 +3,8 @@
 
 ## Welcome! 👋
 
-
 ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![image](https://github.com/user-attachments/assets/f8eab214-d153-433f-9230-e9f0d4f3ead7)
 
